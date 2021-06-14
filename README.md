@@ -1,6 +1,6 @@
 # Data_Preprocessing
 
-## Clone this repository
+## How To Clone this repository
 
 ` https://github.com/archely/Data_Preprocessing.git `
 
