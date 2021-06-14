@@ -2,9 +2,9 @@
 
 ## How To Clone this repository
 
-` https://github.com/archely/parser.git `
+` https://github.com/archely/Data_Preprocessing.git `
 
-` cd parser `
+` cd Data_Preprocessing `
 
 
 ## Packages
