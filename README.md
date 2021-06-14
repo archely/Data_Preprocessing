@@ -2,8 +2,9 @@
 
 ## Clone this repository
 
-`` https://github.com/archely/Data_Preprocessing.git ``
-`` cd DataPreprocessing ``
+` https://github.com/archely/Data_Preprocessing.git `
+
+` cd DataPreprocessing `
 
 
 ## Packages
