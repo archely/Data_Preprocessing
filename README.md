@@ -2,9 +2,9 @@
 
 ## How To Clone this repository
 
-` https://github.com/archely/Data_Preprocessing.git `
+` https://github.com/archely/parser.git `
 
-` cd DataPreprocessing `
+` cd parser `
 
 
 ## Packages
@@ -15,7 +15,7 @@
 
 ## How to run in terminal 
 
-``` -- python DataPreprocessing.py -p mushrooms.csv -t output.csv ```
+``` -- python parser.py -p mushrooms.csv -t output.csv ```
 
 ``` -p: --path , -t: --target ```
 
